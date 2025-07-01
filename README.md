@@ -1,2 +1,3 @@
-# hypercardscan-ios
-Swift package manager version of HyperCardScan
+# HyperCardScan
+
+SDK integrated with HyperSDK for scanning cards using OCR.
